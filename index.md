@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: 欢迎来到我的站点
 ---
+没啥好说的，**祝你快乐每一天**
 
